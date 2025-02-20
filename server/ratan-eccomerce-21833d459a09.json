@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ratan-eccomerce",
+  "private_key_id": "21833d459a09bc12740ffd2bd3143320ec7162ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMeF4PTloca9mI\nAu/CNsEASGm5J7Vywe+Cb5r9LF4FB2VmPN8c2SEiH5gLPZBoRBIY9jpfYYRicF36\nbSfFdkUMJ4oZpq+bldMRJFUd4hMMHtU13Bs39SmPifhjQohricAotBMKAcS5Npey\n7lSszU0wipm0xSVqyCjRnPS/Yu3wkOUwct4M8Z1EGVIX1lQraFRIR7HiNi7kZrAz\n3reuMERQ660HlI9h5qTmUkcauYObC6RlHBf3/DHx0cYh5GrCkNkRkTz2kedYOiYV\n4qFH2zNsJCpOkxEDIsIDNbsl1u90wvYnZEgfgJXDC020hsu5u5XtPg9xluu59tqr\nZwQlP8ivAgMBAAECggEAAzGTTbqhzND6S3gfeQjwGjCpfdAY3Yk73KC6gCwHqrbG\nXBxYSclL4xbbkxEazSalby8+cQeLqoC/q9RgKzgpuTHX+SBC4Q00qkKC6wia1xcw\n3QMQuzyV9ioFnoo2ITTvboaGDCOIVRzsAzCfMRcaFqVf0uWQeOJE3gOvWgWFHwgA\n6zPb++O190NOZXB5GJzj6F+cQsUy/8AXd+2RZP2tJvEzIfZesypSYwZGyCfYw3vw\nz0tDJ/fk3Du0CeNdV213HUsMzjq6KW3Q/DyVCrMdPdCeG39TNuqB0c/HPeaM+rio\nM/yiSRvB2ooUndyvrBjr6YbaykdUjp9J0VTPg5caPQKBgQDxENBnBQ0TEjzKuceZ\ncZrglPgRfvypP/r/nJHCTpdgqMnSR7nBnGNBLH1h+z5I5NjySgSLd7rb0I0u5vDU\nfq3qH+PBsKgvqfB2C1hyQGtNc/wJeQGi2N9EynVwt1AWRlYcReM1ADSlrL7qJFA2\n5zSa5OX5+UJq49pct1gIcqOQswKBgQDZIyqXkmssl8NjaOkoNc8Funvs63mi0Ljh\nIOQKUPMCw2VNNU3wEzPKKMnypRBPrZxNPo/Jpgf9+ZRZ8Z25S9zUOmvCIOzDMAPG\nlgO3SEm5cBObZBxrNku91PDgzJh8FHtXg8+31Del/IW0KjWUqwgGP+FtxtP9bzzz\ntQ/uN7huFQKBgFj+PhFqGfOKbgrhHsCU4fo6xIGhAaFxzzWCFYVIAjZa2XbZp8fD\n9hhfVkJPwCSk5zo6/QaHwuHXUeeYthucUJP4BdrBXrWJ5Q2PDq3O/k3vnYHZvDLk\nITiCDWz5H4W5nZx+aGxukQEAjtJdaYd7Pz5XdlccH9raFwjXXpZvy9ZlAoGBAIA8\nzZ3Awn0OkD14qyKtTLu0XBYbJ7YpkNacpzEUh8CdB4nmrkXYAWEmX8ZnB9AW11Wj\nWiYcYWH0cVIBaUYS8LOCYTvAWDQaelBhLoajMa9L6rh+Em6bHXZaeXw6OOAm9IVF\n+no14jusfIZf208XB2ExfwBnSbHGbXf8+hCVZd3VAoGBAO/sAi5bzJzalt26P+c+\n0xMthmFvwakkZBh0OV5lwWxujcaOdlv5YR6v+Mx7ZiN+ei6ANR1O1yJxldqwmnIP\nDQxlVumAD7HYi2omm9iIo+txfkQav6Mw/1JiCFhQN0h70zUk6mJPnPPXWsSWibYj\nBRTayW5ONqYcszKBpBUjKHC/\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-yyvi9@ratan-eccomerce.iam.gserviceaccount.com",
+  "client_id": "112002077302510931907",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-yyvi9%40ratan-eccomerce.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
